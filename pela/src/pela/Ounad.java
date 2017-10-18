@@ -27,10 +27,10 @@ public class Ounad{
     
     private void initOun() {
         
-        loadImage("C:\\Users\\Aser\\eclipse-workspace\\pela\\src\\pildid/kast.png");     
+        loadImage("src/pildid/kast2.png");  
     }
     public void muudaOun() {
-    	loadImage("C:\\Users\\Aser\\eclipse-workspace\\pela\\src\\pildid/kast2.png"); 
+    	loadImage("src/pildid/kast2.png"); 
     }
     protected void loadImage(String imageName) {
 
